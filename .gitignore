@@ -1,0 +1,3 @@
+*.png
+/dataset
+/training_checkpoints
